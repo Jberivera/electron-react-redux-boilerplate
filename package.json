@@ -4,6 +4,7 @@
   "main": "./app/app.js",
   "scripts": {
     "start": "npm test && webpack && electron .",
+    "build": "webpack",
     "test:watch": "karma start karma.config.js --auto-watch --no-single-run",
     "test": "karma start karma.config.js --no-auto-watch --single-run",
     "packager": "electron-packager",
