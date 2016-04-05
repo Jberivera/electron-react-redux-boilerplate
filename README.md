@@ -1,7 +1,7 @@
 # electron-boilerplate
 
 [![Build Status](https://travis-ci.org/Jberivera/electron-react-redux-boilerplate.svg?branch=master)](https://travis-ci.org/Jberivera/electron-react-redux-boilerplate)
-[![Dependency Status](https://david-dm.org/jberivera/electron-react-redux-boilerplate.svg)](https://david-dm.org/jberivera/electron-boilerplate)
+[![Dependency Status](https://david-dm.org/jberivera/electron-react-redux-boilerplate.svg)](https://david-dm.org/jberivera/electron-react-redux-boilerplate)
 [![devDependency Status](https://david-dm.org/jberivera/electron-react-redux-boilerplate/dev-status.svg)](https://david-dm.org/jberivera/electron-react-redux-boilerplate#info=devDependencies)
 
 ## Scripts
