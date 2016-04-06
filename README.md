@@ -1,4 +1,4 @@
-# electron-boilerplate
+# electron-react-redux-boilerplate
 
 [![Build Status](https://travis-ci.org/Jberivera/electron-react-redux-boilerplate.svg?branch=master)](https://travis-ci.org/Jberivera/electron-react-redux-boilerplate)
 [![Dependency Status](https://david-dm.org/jberivera/electron-react-redux-boilerplate.svg)](https://david-dm.org/jberivera/electron-react-redux-boilerplate)
@@ -18,6 +18,8 @@
 ## Technologies
 
 - [Electron](http://electron.atom.io/)
+- [React](https://facebook.github.io/react/)
+- [Redux](https://github.com/reactjs/redux)
 - [Sass](http://sass-lang.com/)
 
 ## Tools
@@ -25,4 +27,5 @@
 - [Webpack](https://webpack.github.io/)
 - [Babel](https://babeljs.io/)
 - [Mocha](https://mochajs.org/) + [Expect](https://github.com/mjackson/expect)
+- [Karma](https://karma-runner.github.io/) + [Phantomjs](http://phantomjs.org/)
 - [Electron-packager](https://www.npmjs.com/package/electron-packager)
