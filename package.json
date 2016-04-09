@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/Jberivera/trying-electron-js.git"
   },
+  "keywords": ["boilerplate", "electron", "react", "redux"],
   "author": "jberivera",
   "license": "MIT",
   "bugs": {
