@@ -16,7 +16,12 @@
     "type": "git",
     "url": "git+https://github.com/Jberivera/trying-electron-js.git"
   },
-  "keywords": ["boilerplate", "electron", "react", "redux"],
+  "keywords": [
+    "boilerplate",
+    "electron",
+    "react",
+    "redux"
+  ],
   "author": "jberivera",
   "license": "MIT",
   "bugs": {
@@ -32,7 +37,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.7.2",
     "css-loader": "^0.23.1",
-    "electron-packager": "^6.0.1",
+    "electron-packager": "^7.0.0",
     "electron-prebuilt": "^0.37.5",
     "enzyme": "^2.2.0",
     "expect": "^1.16.0",
@@ -53,9 +58,10 @@
     "sass-loader": "^3.2.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.12.14",
-    "webpack-merge": "^0.10.0"
+    "webpack-merge": "^0.12.0"
   },
   "dependencies": {
+    "classnames": "^2.2.3",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
     "react-redux": "^4.4.1",
