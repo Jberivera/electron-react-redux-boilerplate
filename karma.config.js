@@ -66,6 +66,9 @@ module.exports = function(config) {
         new webpack.IgnorePlugin(/ReactContext/)
       ]
     },
-    webpackMiddleware: { noInfo: true }
+    webpackMiddleware: {
+     noInfo: true,
+     stats: 'errors-only'
+    }
   });
 };
